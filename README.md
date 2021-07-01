@@ -17,5 +17,5 @@
   <a href="https://www.linkedin.com/in/ueverton-passos-7959b5192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/uevertonpassos/uevertonpassos/blob/output/github-contribution-grid-snake.svg)
- a
+ 
 </div>
