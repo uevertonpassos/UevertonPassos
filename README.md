@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+I'm+Ueverton+Passos!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+I'm+Ueverton+Passos!;+:%29)](https://git.io/typing-svg)
 
  
   ### Computer Science student <br> ![image](https://user-images.githubusercontent.com/78693250/215757277-a4b5709c-e96f-46ce-8c00-a22dbfa1ca2f.png)<br>   
