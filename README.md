@@ -35,7 +35,6 @@
 
  <br>
  
- ![Snake animation](https://github.com/uevertonpassos/uevertonpassos/blob/output/github-contribution-grid-snake.svg)
  
  
  ![](https://komarev.com/ghpvc/?username=uevertonpassos)
