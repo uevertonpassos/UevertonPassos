@@ -20,12 +20,7 @@
 
   <br>
 
- <div align="center">
-  <a href="https://github.com/uevertonpassos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uevertonpassos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uevertonpassos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
+
   
   
  ### Contact me:
