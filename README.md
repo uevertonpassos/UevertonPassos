@@ -14,6 +14,10 @@
   <a href = "mailto:uevertonpassos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ueverton-passos-7959b5192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://img.shields.io/twitter/follow/uevertonpassos?style=social" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+ 
+</div>
+<div>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=uevertonpassos&theme=dark&hide_border=true" width="400">
 </div>
 
  <br>
