@@ -5,7 +5,7 @@
   ### Computer Science student <br> ![image](https://user-images.githubusercontent.com/78693250/215757277-a4b5709c-e96f-46ce-8c00-a22dbfa1ca2f.png) 
   ### I speak Portuguese and English<br>![image](https://user-images.githubusercontent.com/78693250/215757679-346da452-fb52-419c-8712-5db0cd3626ad.png)![image](https://user-images.githubusercontent.com/78693250/215757841-2bdb2f3d-c25d-43af-adef-d002254ab70b.png)
        
-  https://uevertonpassos.me/
+ 
   <br>
   
  ### Contact me:
