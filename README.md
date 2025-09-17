@@ -1,27 +1,58 @@
+<!-- Banner animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C13F1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Ueverton+Passos!;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%26+CS+Student;Always+learning+new+things!+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C13F1size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Ueverton+Passos!;+:%29)](https://git.io/typing-svg)
+---
 
- 
-  ### Computer Science student <br> ![image](https://user-images.githubusercontent.com/78693250/215757277-a4b5709c-e96f-46ce-8c00-a22dbfa1ca2f.png) 
-  ### I speak Portuguese and English<br>![image](https://user-images.githubusercontent.com/78693250/215757679-346da452-fb52-419c-8712-5db0cd3626ad.png)![image](https://user-images.githubusercontent.com/78693250/215757841-2bdb2f3d-c25d-43af-adef-d002254ab70b.png)
-       
- 
-  <br>
+## 👨‍💻 About Me  
+💡 Computer Science Student & Developer passionate about technology, creativity, and problem-solving.  
+🌎 I speak **Portuguese** 🇧🇷 and **English** 🇺🇸  
+⚡ Fun fact: I love games 🎮 (Ragnarok & WoW ❤️) and building cool stuff with code.  
+
+---
+
+## 🌐 Connect with me  
+<div align="center">
+  <a href="https://instagram.com/uevertonpassos" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href = "mailto:uevertonpassos96@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ueverton-passos-7959b5192/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="https://twitter.com/uevertonpassos" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a> 
+</div>
+
+---
+
+## 🛠️ Tech Stack  
+<div align="center">
+
+| **Languages** | **Frameworks & Libs** | **Tools & Others** |
+|---------------|------------------------|---------------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000) |
+
+</div>
+
+---
+
+## 🌟 Featured Projects  
+Here are some projects & websites I’ve been involved with:  
+
+- 🔹 [Go Digital Selling](https://godigitalselling.com/)  
+- 🔹 [R Planning](https://rplaning.com.br/)  
+- 🔹 [Golden Colchões](https://goldencolchoes.com.br/)  
+- 🔹 [Perseotech](https://perseotech.com.br/)  
+- 🔹 [JVTEC Informática](https://jvtecinformatica.com/)  
+
+---
+
+## 📊 Profile Views  
+<div align="center">
   
- ### Contact me:
-<div> 
-  <a href="https://instagram.com/uevertonpassos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:uevertonpassos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ueverton-passos-7959b5192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://img.shields.io/twitter/follow/uevertonpassos?style=social" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
- 
-</div>
-<div>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=uevertonpassos&theme=dark&hide_border=true" width="420">
-</div>
+  ![](https://komarev.com/ghpvc/?username=uevertonpassos&color=blue&style=flat-square)
 
- <br>
- 
- 
- 
- ![](https://komarev.com/ghpvc/?username=uevertonpassos)
+</div>
