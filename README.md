@@ -40,13 +40,24 @@
 ---
 
 ## 🌟 Featured Projects  
-Here are some projects & websites I’ve been involved with:  
+Here are some projects & websites I've been involved with:  
 
 - 🔹 [Go Digital Selling](https://godigitalselling.com/)  
 - 🔹 [R Planning](https://rplaning.com.br/)  
 - 🔹 [Golden Colchões](https://goldencolchoes.com.br/)  
 - 🔹 [Perseotech](https://perseotech.com.br/)  
 - 🔹 [JVTEC Informática](https://jvtecinformatica.com/)  
+- 🔹 [Onda Já é CooNow](https://omodajaecoonow.com.br/)  
+- 🔹 [Audi Ribeirão Preto](https://audiribeiraopreto.com.br/)  
+- 🔹 [Onne MG](https://onnemg.com.br/)  
+- 🔹 [Euro Geely](https://eurogeely.com.br/)  
+- 🔹 [Azzurra Urbanismo](https://azzurraurbanismo.com.br/)  
+- 🔹 [Elloville](https://elloville.azzurraurbanismo.com.br/)  
+- 🔹 [Essenza](https://essenza.azzurraurbanismo.com.br/)  
+- 🔹 [Bella Verona](https://bellaverona.azzurraurbanismo.com.br/)  
+- 🔹 [Jardim Amália](https://azzurraurbanismo.com.br/jardim-amalia)  
+- 🔹 [Ello Park](https://ellopark.azzurraurbanismo.com.br/)  
+- 🔹 [Acqua Flora](https://acquaflora.azzurraurbanismo.com.br/)  
 
 ---
 
