@@ -47,7 +47,7 @@ Here are some projects & websites I've been involved with:
 - 🔹 [Golden Colchões](https://goldencolchoes.com.br/)  
 - 🔹 [Perseotech](https://perseotech.com.br/)  
 - 🔹 [JVTEC Informática](https://jvtecinformatica.com/)  
-- 🔹 [Onda Já é CooNow](https://omodajaecoonow.com.br/)  
+- 🔹 [Omoda Jaecoo Now](https://omodajaecoonow.com.br/)  
 - 🔹 [Audi Ribeirão Preto](https://audiribeiraopreto.com.br/)  
 - 🔹 [Onne MG](https://onnemg.com.br/)  
 - 🔹 [Euro Geely](https://eurogeely.com.br/)  
