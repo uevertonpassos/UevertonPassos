@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me  
 💡 Computer Science Student & Developer passionate about technology, creativity, and problem-solving.  
 🌎 I speak **Portuguese** 🇧🇷 and **English** 🇺🇸  
-⚡ Fun fact: I love games 🎮 (Ragnarok & WoW ❤️) and building cool stuff with code.  
+⚡ Fun fact: I love games 🎮 (RTS games, FF14 & WoW ❤️) and building cool stuff with code.  
 
 ---
 
