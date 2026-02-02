@@ -57,7 +57,8 @@ Here are some projects & websites I've been involved with:
 - 🔹 [Bella Verona](https://bellaverona.azzurraurbanismo.com.br/)  
 - 🔹 [Jardim Amália](https://azzurraurbanismo.com.br/jardim-amalia)  
 - 🔹 [Ello Park](https://ellopark.azzurraurbanismo.com.br/)  
-- 🔹 [Acqua Flora](https://acquaflora.azzurraurbanismo.com.br/)  
+- 🔹 [Acqua Flora](https://acquaflora.azzurraurbanismo.com.br/)
+- 🔹 [Fundação IAESTE Brazil](https://iaestebrazil.fundacaocefetminas.org.br/)  
 
 ---
 
