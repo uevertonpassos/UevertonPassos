@@ -62,6 +62,16 @@ const ueverton = {
 
 ---
 
+## Linux Foundation Badges
+
+<p align="center">
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/eea1ed6f-124e-44db-8b50-6097edc51551-ueverton-passos-380e47ce-5de3-4656-b165-f1ec38b29160-certificate.pdf"><img src="https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="150" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/eea1ed6f-124e-44db-8b50-6097edc51551-ueverton-passos-a41a82ce-f59f-460d-8f2f-b8db9440c850-certificate.pdf"><img src="https://images.credly.com/images/ee986187-6637-45e9-8184-8382dc117432/blob" width="150" alt="LFD121: Developing Secure Software" /></a>
+</p>
+
+---
+
 ## Current Quest Log
 
 <table>
